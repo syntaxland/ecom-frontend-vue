@@ -1,19 +1,15 @@
-# frontend_vue
+Vue E-Commerce Frontend
 
-## Project setup
-```
+A Vue.js frontend for an e-commerce platform powered by a Django backend, providing the user interface for browsing products, managing shopping carts, and handling online purchases.
+
+Setup
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+Development
+
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+Production Build
+
 npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
